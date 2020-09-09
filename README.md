@@ -3,6 +3,8 @@ A collection of assorted Jupyter notebooks and other code useful for literature 
 
 Currently, this repository contains:
 
+1. *troj-ai-search* - a prototype embedding-based scientific abstract search method implemented as a Jupyter notebook.
+
 1. *troj-ai-summary* - a prototype extractive scientific article summarization method implemented as a Jupyter notebook.
 
 More items to follow...
