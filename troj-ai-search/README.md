@@ -24,7 +24,7 @@ Binary files containing data generated from arXiv will also need to be present. 
 * language_model/arXiv-cs-lc-backward.pt
 * language_model/arXiv-cs-lc-forward.pt
 
-These files will be made available as using the GitHub release mechanism in a compressed archive file that should be unarchived into the installation directory.
+These files are too large (about 3.0 GB) to made available using the GitHub release mechanism. We will investigate alternate means to provide them. Future updates to this repository will include code to generate them.
 
 ## Usage
 
