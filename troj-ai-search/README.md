@@ -24,7 +24,7 @@ Binary files containing data generated from arXiv will also need to be present. 
 * language_model/arXiv-cs-lc-backward.pt
 * language_model/arXiv-cs-lc-forward.pt
 
-These files are using the GitHub release mechanism (v0.1). Find them on this project's [release page](Embedding-based Search for Scientific Abstracts). Download and unarchive them in the same directory as the notebook.
+These files are available via the GitHub release mechanism (v0.1). Find them on this project's [release page](https://github.com/usnistgov/literature-survey-tools/releases). Download and unarchive them in the same directory as the notebook.
 
 ## Usage
 
